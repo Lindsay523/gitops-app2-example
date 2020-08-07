@@ -32,6 +32,6 @@ spec:
           sh '/bin/busybox'
         }
       }
-    }
+    } hello!
   }
 }
